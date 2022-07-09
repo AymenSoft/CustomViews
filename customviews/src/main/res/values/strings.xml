@@ -1,0 +1,5 @@
+<resources>
+    <string name="release">Release: %1$s</string>
+    <string name="vote">Vote: %1$,.1f</string>
+    <string name="overview">Overview: %1$s</string>
+</resources>

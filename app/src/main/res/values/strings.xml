@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CustomViews</string>
+
+    <string name="splash_server_down">Server Offline</string>
+    <string name="splash_no_internet">No Internet Connexion</string>
+    <string name="splash_server_unreachable">Server Inaccessible</string>
+    <string name="internet_settings">internet settings</string>
+
+    <string name="search_name">Search…</string>
+    <string name="loading">loading</string>
+    <string name="empty_list">no data found</string>
+
+</resources>
